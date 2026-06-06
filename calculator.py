@@ -1,4 +1,8 @@
 def add(a, b):
     return a + b
 
-print(add(2,3))
+def sub(a, b):
+    return a - b
+
+print("Addition :", add(10,5))
+print("Soustraction :", sub(10,5))
