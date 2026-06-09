@@ -24,3 +24,12 @@ def carre(x):
     return x * x
 
 print("carre :",carre(5))
+
+
+def factorielle(n):
+    resultat = 1
+    for i in range(1, n + 1):
+        resultat = resultat * i
+    return resultat
+
+print("factorielle :",factorielle(5))
