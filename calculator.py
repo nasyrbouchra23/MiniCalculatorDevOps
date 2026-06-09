@@ -14,3 +14,8 @@ print("Multiplication :", mult(10,5))
 def div(a, b):
     return a / b
 print("Division :", div(10,5))
+
+def mod(a, b):
+    return a % b
+
+print("mod :",mod(10, 3))
