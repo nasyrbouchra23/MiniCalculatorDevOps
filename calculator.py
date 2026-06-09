@@ -19,3 +19,8 @@ def mod(a, b):
     return a % b
 
 print("mod :",mod(10, 3))
+
+def carre(x):
+    return x * x
+
+print("carre :",carre(5))
