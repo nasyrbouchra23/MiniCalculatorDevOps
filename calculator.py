@@ -7,6 +7,24 @@ def sub(a, b):
 print("Addition :", add(10,5))
 print("Soustraction :", sub(10,5))
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def mult(a, b):
     return a * b
 print("Multiplication :", mult(10,5))
