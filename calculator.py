@@ -65,3 +65,8 @@ def racine_carree(x):
     return x ** 0.5
 
 print("racine_carree :",racine_carree(16))
+
+def est_pair(n):
+    return n % 2 == 0
+
+print(est_pair(10))
