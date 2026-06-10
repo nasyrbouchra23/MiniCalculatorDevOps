@@ -60,3 +60,8 @@ def pgcd(a, b):
     return a
 
 print("pgcd :",pgcd(12, 18))
+
+def racine_carree(x):
+    return x ** 0.5
+
+print("racine_carree :",racine_carree(16))
