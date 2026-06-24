@@ -8,9 +8,16 @@ Ce projet est une calculatrice développée en Python permettant d'effectuer plu
 - Soustraction
 - Multiplication
 - Division
-- Modulo
+- Modulo (Mod)
 - Carré d'un nombre
 - Factorielle d'un nombre
+- Moyenne
+- Valeur absolue
+- Puissance
+- PGCD (Plus Grand Commun Diviseur)
+- Racine carrée
+- Vérifier si un nombre est pair
+
 
 ## Outils utilisés
 - Python
